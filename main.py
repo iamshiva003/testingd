@@ -11,3 +11,6 @@ def names(name):
 
 names("Shivakumar")
 names("Kempya")
+
+if names:
+    print("All Ok")
